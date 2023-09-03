@@ -232,9 +232,9 @@ There are other options that can be specified e.g `ls -R`, which is used to list
 ## Htop
 `htop` is an interactive system monitoring tool that provides a more detailed and user-friendly view of system processes and resource usage compared to top.
 
-![htop](htop.png)
+![Alt text](htop.png)
 
 ## Ps
 `ps` (short for "process status") is used to display information about the currently running processes on a Unix-like system.
 
-![ps](ps.png)
+![Alt text](<images/ps.png>)
