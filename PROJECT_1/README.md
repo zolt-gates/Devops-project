@@ -77,7 +77,7 @@ There are other options that can be specified e.g `ls -R`, which is used to list
 `find` is used to search for files and directories in a specified location. It offers more advanced search options, such as searching by file type, size, or modification time.
 
 
-![Alt text](find.PNG)
+![Alt text](images/find.PNG)
 
 ## Grep
 `grep` (short for "Global Regular Expression Print") is a powerful text search tool used to search for specific patterns or text within files. It supports regular expressions for advanced searching.
