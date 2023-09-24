@@ -204,7 +204,7 @@ Access the page by visiting the domain name/IP address configured.
 
 ![Alt Text](images/query_data.PNG)
 
-🎖🎖🎖🎖🎉🎉🎉 Congratulations, The project gas been completed successfully.🎉🎉🎉🥇🥇🥇🥇
+🎖🎖🎖🎖🎉🎉🎉 Congratulations, The project has been completed successfully.🎉🎉🎉🥇🥇🥇🥇
 
 
 
