@@ -6,21 +6,21 @@ Provision two EC2 instances running on Ubuntu 22.04 and install apache Webserver
 
 Login to your AWS account, navigate to the EC2 page and create launch instance
 
-![Alt Text](images/Launch_instance_page.PNG)
+![Alt Text](images/Launch_instance_page.png)
 
 Select the options for creating the EC2 instances, selct Ubuntu AMI and t2 micro instance type
 
-![Alt Text](images/settings_ec2.PNG)
+![Alt Text](images/settings_ec2.png)
 
-![Alt Text](images/sg_instance.PNG)
+![Alt Text](images/sg_instance.png)
 
 Create the instances and check that they are running
 
-![Alt Text](images/running_instances.PNG)
+![Alt Text](images/running_instances.png)
 
 Connect to any instance
 
-![Alt Text](images/ssh_client.PNG)
+![Alt Text](images/ssh_client.png)
 
 ![Alt Text](images/logged_in.PNG)
 
@@ -94,6 +94,8 @@ Reapeat the Steps above for the second apache webserver instance created.
 #### Step 4
 
 Provision a new EC2 instance for NGINX like we did in the steps above and configure it to accept HTTP traffic from anywhere on port 80
+
+![Alt Text](images/nginx_lb.png)
 
 Log into the instance and Install Nginx
 
